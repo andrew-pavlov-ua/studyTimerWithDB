@@ -1,0 +1,4 @@
+time=1, timePerDay=1s, sumOfTime=1s, sumOfMilis=1271
+time=2, timePerDay=4s, sumOfTime=5s, sumOfMilis=5388
+time=3, timePerDay=11s, sumOfTime=17s, sumOfMilis=17072
+time=4, timePerDay=2m. , sumOfTime=2m. 17s, sumOfMilis=137196
